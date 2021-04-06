@@ -1,1 +1,1 @@
-a course on artificial intelligence by Aalto university
+#a course on artificial intelligence by Aalto university
