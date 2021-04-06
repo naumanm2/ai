@@ -1,1 +1,1 @@
-##Aalto university – artificial intelligence
+a course on artificial intelligence by Aalto university
